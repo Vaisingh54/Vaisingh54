@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Full stack projects<br>- 🌱 I’m currently learning MERN stack<br>- 👯 I’m looking to collaborate on OPEN SOURCE<br>- 🤔 I’m looking for help with  Bugs and issues<br>- 💬 Ask me about Programming<br>- 📫 How to reach me:  vaisingh54@gmail.com
+- 🔭 I’m currently working on Full stack projects<br>- 🌱 I’m currently learning Cloud Tech<br>- 👯 I’m looking to collaborate on OPEN SOURCE<br>- 🤔 I’m looking for help with  Bugs and issues<br>- 💬 Ask me about Programming<br>- 📫 How to reach me:  vaisingh54@gmail.com
 
 
 ## 🌐 Socials:
